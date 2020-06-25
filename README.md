@@ -1,1 +1,3 @@
-# Income-prediction-using-Gradient-Bossted-Trees-Spark
+# Prediction of Income using ML libraries and Pipelining in Spark
+
+This code was executed in Databricks and the data source is from this kaggle link: https://www.kaggle.com/lodetomasi1995/income-classification. Various Machine Learning algorithms (Gradient Boosted Trees, Random Forests, Logistic Regression, Decision Tree Classifiers) were implemented to predict the income given the dependent attributes age, class of work, type of education, marital status, occupation, relationship, race, sex, how many hours per week does the person work and the income of the individual is predicted. Of all those, Gradient Boosted Trees outperformed the rest and emerged as the winner.
