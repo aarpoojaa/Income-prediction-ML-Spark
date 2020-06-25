@@ -1,4 +1,4 @@
-# Databricks notebook source - 873406040 - POOJA RADHAKRISHNAN
+# Databricks notebook source 
 from pyspark.ml.linalg import Vectors
 from pyspark.sql.types import StructType, StructField, LongType, StringType, DoubleType
 from pyspark.ml.feature import StringIndexer, Bucketizer
